@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/picdorsey/via/issues"
   },
-  "homepage": "https://github.com/picdorsey/via#readme"
+  "homepage": "https://github.com/picdorsey/via#readme",
+  "dependencies": {
+    "autotrack": "^1.0.3"
+  }
 }
